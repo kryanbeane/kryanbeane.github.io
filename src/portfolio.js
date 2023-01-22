@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -13,15 +13,14 @@ const seo = {
   og: {
     title: "Bryan Keane's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://kryanbeane.github.io/",
   },
 };
 
 //Home Page
 const greeting = {
   title: "Bryan Keane",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  logo_name: "BryanKeane",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -32,7 +31,7 @@ const greeting = {
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
+  // github: "https://github.com/kryanbeane",
   // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
   // gmail: "ashutoshhathidara98@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
